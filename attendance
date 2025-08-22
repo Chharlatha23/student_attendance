@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Attendance Page</title>
+</head>
+<body>
+    <script>
+        console.log("Student_Attendance");
+    </script>
+</body>
+</html>
